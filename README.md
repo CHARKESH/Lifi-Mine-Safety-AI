@@ -10,6 +10,10 @@ The system measures temperature and atmospheric pressure, transmits sensor data 
 
 A web dashboard enables the external safety team to monitor environmental conditions and view AI-generated alerts, while workers inside the tunnel can receive emergency instructions through the LiFi communication system.
 
+## Circuit connection picture:
+
+<img width="1029" height="504" alt="image" src="https://github.com/user-attachments/assets/77e14555-e8cf-4730-a755-f0ea129bf985" />
+
 ## Key Features
 
 - Real-time environmental monitoring using ESP32 and BMP180.
