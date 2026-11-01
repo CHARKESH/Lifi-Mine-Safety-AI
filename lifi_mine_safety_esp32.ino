@@ -11,7 +11,7 @@ const char* WIFI_PASSWORD = "your_wifi_password";
 
 
 const char* AI_SERVER_URL =
-  "http://10.104.8.80:5000/ask";
+  "http://96.10.8.80:5000/ask";
 
 
 constexpr uint8_t ZONE_PINS[3] = {32, 33, 25};
