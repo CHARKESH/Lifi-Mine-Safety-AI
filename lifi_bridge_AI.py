@@ -6,7 +6,7 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-ESP32_BASE = "http://10.104.8.65"
+ESP32_BASE = "http://96.10.8.65"
 
 MODEL = "llama3.2:1b"
 
